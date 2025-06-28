@@ -664,12 +664,13 @@
             align-items: center;
             justify-content: center;
             padding-top: 40px;
+            
         }
     </style>
 </head>
 
 <body>
-    <header>
+    <header id="header">
         <a id="logo" href="#">
             <img src="assets/images/fg-images/logo.png" alt="Logo" />
         </a>
@@ -822,6 +823,7 @@
 
     <script>
         const menuBtn = document.getElementById('menuToggle');
+        const header = document.getElementById('header');
         toggle = false
         function toggleMenu() {
             toggle = !toggle;
@@ -830,6 +832,7 @@
             if (toggle) {
                 menuBtn.textContent = "☰ Close";
                 menuBtn.style.color = "#ffD200";
+                header.style.backgroundColor="#333333";
             }
             else {
                 menuBtn.textContent = "☰ Menu";
