@@ -852,7 +852,7 @@ nav a:hover {
     }
 
     .ComfortZone-body {
-        background-attachment: scroll;
+        background-attachment: scroll !important;
     }
 }
 
