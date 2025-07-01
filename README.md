@@ -14,7 +14,7 @@ This is a front-end web development project submitted for the **Web Engineering*
 
 ## 📄 Pages Included
 
-- `home.html` – Hero section, call to action, about gym.
+- `index.html` – Hero section, call to action, about gym.
 - `why-us.html` – Key reasons to join the gym with features and benefits.
 - `join-us-membership.html` – Membership form and plans.
 - `our-branches.html` – Details of all available gym locations.
@@ -51,7 +51,7 @@ This is a front-end web development project submitted for the **Web Engineering*
 /WebEngineering Project by Folio's/
 │
 ├── contact-us.html
-├── home.html
+├── index.html
 ├── join-us-membership.html
 ├── our-branches.html
 ├── why-us.html
@@ -91,7 +91,7 @@ This is a front-end web development project submitted for the **Web Engineering*
    git clone https://github.com/M-Laheem-Ayub/web-engineering-project-gym-website.git
    ```
 
-2. Open `home.html` in any modern browser.
+2. Open `index.html` in any modern browser.
 
 ---
 
