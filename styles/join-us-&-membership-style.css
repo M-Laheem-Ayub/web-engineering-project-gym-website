@@ -249,7 +249,9 @@ nav ul li {
     padding: 0px;
     cursor: auto;
 }
-
+.container p {
+    color: white !important;
+}
 .btn-container button {
     font-family: "Poppins";
     height: 44px;
